@@ -40,19 +40,14 @@ Here are some ideas to get you started:
 
 ![Java](https://img.shields.io/badge/Java-534AB7?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-1D9E75?style=flat-square&logo=springboot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-3C3489?style=flat-square&logo=nodedotjs&logoColor=white)
-
-**数据库**
-
 ![MySQL](https://img.shields.io/badge/MySQL-0F6E56?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-D85A30?style=flat-square&logo=redis&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-085041?style=flat-square&logo=mongodb&logoColor=white)
 
-**工具链**
+**数据库**
+![bilibili](https://space.bilibili.com/3546706109008142?spm_id_from=333.1007.0.0)
+![CSDN](https://blog.csdn.net/nd20060725?type=blog)
+![blog](https://chagumu.site/)
 
-![Docker](https://img.shields.io/badge/Docker-185FA5?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-444441?style=flat-square&logo=linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-993C1D?style=flat-square&logo=git&logoColor=white)
 
 ---
 
@@ -60,8 +55,8 @@ Here are some ideas to get you started:
 
 ```
 AI Agent        ████████████████████░░░░░  75%
-LangChain       ██████████████░░░░░░░░░░░  55%
-微服务架构        ███████████████░░░░░░░░░░  60%
+java            ██████████████████████░░  85%
+微服务架构      █████████████████░░░░░░░░  60%
 ```
 
 ---
