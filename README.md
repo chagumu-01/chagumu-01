@@ -43,11 +43,12 @@ Here are some ideas to get you started:
 ![MySQL](https://img.shields.io/badge/MySQL-0F6E56?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-D85A30?style=flat-square&logo=redis&logoColor=white)
 
-**数据库**
-![bilibili](https://space.bilibili.com/3546706109008142?spm_id_from=333.1007.0.0)
-![CSDN](https://blog.csdn.net/nd20060725?type=blog)
-![blog](https://chagumu.site/)
 
+## 📬 Contact
+
+[![bilibili](https://img.shields.io/badge/bilibili-chagumu-FF6699?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/3546706109008142?spm_id_from=333.1007.0.0)
+[![CSDN](https://img.shields.io/badge/CSDN-chagumu-FC5531?style=flat-square&logo=csdn&logoColor=white)](https://blog.csdn.net/nd20060725?type=blog)
+[![Blog](https://img.shields.io/badge/Blog-chagumu-534AB7?style=flat-square&logo=rss&logoColor=white)](https://chagumu.site/)
 
 ---
 
@@ -79,15 +80,9 @@ java            █████████████████████�
 
 </div>
 
----
-
-## 📬 Contact
-
-- GitHub: [@chagumu](https://github.com/chagumu)
-- 有想法欢迎提 Issue 或直接联系我 👋
 
 ---
 
 <div align="center">
-  <sub>▓▓▓▓▓▓▓▓▓▓ keep building. © chagumu 2025</sub>
+  <sub>▓▓▓▓▓▓▓▓▓▓ keep building. © chagumu </sub>
 </div>
