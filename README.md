@@ -76,9 +76,9 @@ java            █████████████████████�
 
 <div align="center">
 
-![chagumu's GitHub stats](https://github-readme-stats.vercel.app/api?username=chagumu&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](assets/metrics.svg)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chagumu&layout=compact&theme=tokyonight&hide_border=true)
+
 
 </div>
 
