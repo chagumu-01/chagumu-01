@@ -1,0 +1,22 @@
+name: GitHub Metrics
+on:
+  # 每天北京时间19点自动更新图表
+  schedule:
+    - cron: "0 11 * * *"
+  # 支持手动点击运行
+  workflow_dispatch:
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # 填入你刚才创建的密钥
+          token: ${{ secrets.METRICS_TOKEN }}
+          # 输出图片保存到仓库 assets 文件夹
+          filename: assets/metrics.svg
+          # 开启你截图里的全部模块
+          base: header,activity,community,repositories
+          # 时区改为上海，和截图一致
+          config_timezone: Asia/Shanghai
