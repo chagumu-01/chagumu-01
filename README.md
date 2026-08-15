@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 
 
 <!--
 **chagumu-01/chagumu-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 **后端**
 
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 ![Redis](https://img.shields.io/badge/Redis-D85A30?style=flat-square&logo=redis&logoColor=white)
 
 
-## 📬 Contact
+##  Contact
 
 [![bilibili](https://img.shields.io/badge/bilibili-FF6699?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/3546706109008142?spm_id_from=333.1007.0.0)
 [![CSDN](https://img.shields.io/badge/CSDN-FC5531?style=flat-square&logo=csdn&logoColor=white)](https://blog.csdn.net/nd20060725?type=blog)
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 ---
 
-## 📚 Currently Learning
+##  Currently Learning
 
 ```
 AI Agent        ████████████████████░░░░░  75%
@@ -62,7 +62,7 @@ java            █████████████████████�
 
 ---
 
-## 🚀 Projects
+##  Projects
 
 | 项目 | 描述 | 技术栈 |
 |------|------|--------|
@@ -74,7 +74,7 @@ java            █████████████████████�
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
