@@ -1,25 +1,51 @@
-<div align="center">
-
-# Hi, I'm chagumu.
-
-**后端开发 · AI 应用 · Agent 探索**
-
-构建稳定、高效的系统，也把 AI 的想法做成可以使用的工具。  
-持续学习，保持好奇，用代码解决具体的问题。
-
-[个人博客](https://chagumu.site/) &nbsp; / &nbsp; [Bilibili](https://space.bilibili.com/3546706109008142) &nbsp; / &nbsp; [CSDN](https://blog.csdn.net/nd20060725?type=blog)
-
-</div>
+![chagumu — Build systems. Explore intelligence.](assets/profile-cover.svg)
 
 <br>
 
-### 技术栈 / Tech Stack
+> **把复杂留给实现，把简单留给使用。**
+>
+> 热爱构建稳定、高效的系统，正在探索 AI Agent 的更多可能。
 
-| 方向 | 技术与工具 |
-| :--- | :--- |
-| **后端开发** | Java · Spring Boot · MySQL · Redis |
-| **AI 应用** | Cursor Pro · Langfuse · Dify · MongoDB Atlas |
-| **部署与基础设施** | Vercel · Cloudflare Workers · Supabase |
+<br>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**01 &nbsp; / &nbsp; BACKEND**
+
+### 系统的底座
+
+Java · Spring Boot  
+MySQL · Redis
+
+</td>
+<td width="34%" valign="top">
+
+**02 &nbsp; / &nbsp; AI APPLICATIONS**
+
+### 想法的实验场
+
+Cursor Pro · Langfuse  
+Dify · MongoDB Atlas
+
+</td>
+<td width="33%" valign="top">
+
+**03 &nbsp; / &nbsp; INFRASTRUCTURE**
+
+### 从本地到上线
+
+Vercel · Cloudflare Workers  
+Supabase
+
+</td>
+</tr>
+</table>
+
+<br>
+
+**ELSEWHERE** &nbsp; ↗ &nbsp; [个人博客](https://chagumu.site/) &nbsp; · &nbsp; [Bilibili](https://space.bilibili.com/3546706109008142) &nbsp; · &nbsp; [CSDN](https://blog.csdn.net/nd20060725?type=blog)
 
 <br>
 
