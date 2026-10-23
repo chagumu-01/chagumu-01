@@ -1,51 +1,27 @@
-## Hi there
-
 <div align="center">
 
-```
- ██████╗██╗  ██╗ █████╗  ██████╗ ██╗   ██╗███╗   ███╗██╗   ██╗
-██╔════╝██║  ██║██╔══██╗██╔════╝ ██║   ██║████╗ ████║██║   ██║
-██║     ███████║███████║██║  ███╗██║   ██║██╔████╔██║██║   ██║
-██║     ██╔══██║██╔══██║██║   ██║██║   ██║██║╚██╔╝██║██║   ██║
-╚██████╗██║  ██║██║  ██║╚██████╔╝╚██████╔╝██║ ╚═╝ ██║╚██████╔╝
- ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝  ╚═════╝ ╚═╝     ╚═╝ ╚═════╝
-```
+# Hi, I'm chagumu.
 
-**后端开发者 / 持续学习者 / Agent 探索者**
+**后端开发 · AI 应用 · Agent 探索**
 
-热爱构建稳定、高效的系统，正在探索 AI Agent 的无限可能。
+构建稳定、高效的系统，也把 AI 的想法做成可以使用的工具。  
+持续学习，保持好奇，用代码解决具体的问题。
+
+[个人博客](https://chagumu.site/) &nbsp; / &nbsp; [Bilibili](https://space.bilibili.com/3546706109008142) &nbsp; / &nbsp; [CSDN](https://blog.csdn.net/nd20060725?type=blog)
 
 </div>
 
----
+<br>
 
-## Tech Stack
+### 技术栈 / Tech Stack
 
-**AI 应用开发**
+| 方向 | 技术与工具 |
+| :--- | :--- |
+| **后端开发** | Java · Spring Boot · MySQL · Redis |
+| **AI 应用** | Cursor Pro · Langfuse · Dify · MongoDB Atlas |
+| **部署与基础设施** | Vercel · Cloudflare Workers · Supabase |
 
-![Cursor](https://img.shields.io/badge/Cursor_Pro-000000?style=flat-square&logo=cursor&logoColor=white)
-![Langfuse](https://img.shields.io/badge/Langfuse-7C3AED?style=flat-square&logoColor=white)
-![Dify](https://img.shields.io/badge/Dify-1C64F2?style=flat-square&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB_Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-**部署 & 基础设施**
-
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare_Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-
-**后端**
-
-![Java](https://img.shields.io/badge/Java-534AB7?style=flat-square&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-1D9E75?style=flat-square&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-0F6E56?style=flat-square&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-D85A30?style=flat-square&logo=redis&logoColor=white)
-
-## Contact
-
-[![bilibili](https://img.shields.io/badge/bilibili-FF6699?style=flat-square&logo=bilibili&logoColor=white)](https://space.bilibili.com/3546706109008142)
-[![CSDN](https://img.shields.io/badge/CSDN-FC5531?style=flat-square&logo=csdn&logoColor=white)](https://blog.csdn.net/nd20060725?type=blog)
-[![Blog](https://img.shields.io/badge/Blog-534AB7?style=flat-square&logo=rss&logoColor=white)](https://chagumu.site/)
+<br>
 
 ---
 
